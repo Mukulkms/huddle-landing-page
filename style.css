@@ -71,7 +71,7 @@ button:hover{
     display: flex;
     justify-content: end;
     width: 100%;
-    padding: 0 2em;
+    padding: 0 5em;
     gap: 1em;
 }
 .fb,.insta,.tw:hover{
